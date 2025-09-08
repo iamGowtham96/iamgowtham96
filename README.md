@@ -1,5 +1,5 @@
-Hi, I'm Gowtham 👋
-I'm a passionate developer exploring web technologies and open source.
+<h1 align="center">Hi 👋, I'm Gowtham</h1>
+<h3 align="center">I'm a passionate developer exploring web technologies and open source.</h3>
 
 
 ## 🚀 Tech Stack
