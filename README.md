@@ -5,7 +5,7 @@ I'm a passionate developer exploring web technologies and open source.
 ## 🚀 Tech Stack
 - HTML, CSS, JavaScript
 - React, Node.js
-- PHP, Laravel
+- PHP, Laravel, Magento
 <!--
 **iamGowtham96/iamgowtham96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
