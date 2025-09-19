@@ -6,6 +6,12 @@
 - HTML, CSS, JavaScript
 - React, Node.js
 - PHP, Laravel, Magento
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,wordpress,react,git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **iamGowtham96/iamgowtham96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
