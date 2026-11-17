@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">I'm a passionate developer exploring web technologies and open source.</h3>
+# Hi there, I'm Gowtham 👋
 
+### A Passionate Full Stack Developer from India
+
+I am a Full Stack Developer with expertise in building scalable web applications and e-commerce solutions. I enjoy creating seamless user experiences, developing robust backend systems, and continuously exploring new technologies to enhance my skills.
+
+## 👨‍💻 About Me
+
+- 🔭 **Currently:** Working as a Full Stack Developer, developing modern web and enterprise applications.
+- 🌱 **Learning:** Deepening my knowledge in Python, Cloud Technologies, AI, and DevOps.
+- 👯 **Aspiration:** Continuously improving my technical expertise and contributing to innovative projects.
+- 💬 **Ask Me About:** React, Python, PHP, Laravel, Magento, JavaScript, and Full Stack Development.
+- 🚀 **Interests:** Web Development, Open Source, Automation, and Emerging Technologies.
+- ⚡ **Fun Fact:** I enjoy solving complex problems and transforming ideas into practical digital solutions.
+
+---
 
 ## 🚀 Tech Stack
-- HTML, CSS, JavaScript
-- React, Node.js
-- PHP, Laravel, Magento
+
+### 📖 Programming Languages
+- JavaScript
+- Python
+- PHP
+- C
+
+### 📖 Frontend Development
+- HTML5
+- CSS3
+- React.js
+- Bootstrap
+
+### 📖 Backend Development
+- Node.js
+- Laravel
+- PHP
+- REST APIs
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### 🛒 CMS & E-Commerce
+- Magento
+- WordPress
+
+### 🛠 Platforms & Tools
+- Git & GitHub
+- Docker
+- Kubernetes
+- Linux
+- Vim
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,wordpress,react,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,laravel,mysql,mongodb,wordpress,git,docker,kubernetes,linux,vim,c" />
   </a>
 </p>
-<!--
-**iamGowtham96/iamgowtham96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: *Add your profile link*
+- 📧 Email: *Add your email*
+- 🌍 Portfolio: *Add your portfolio link*
+
+---
+
+## ✏️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgowtham96&show_icons=true&theme=github_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgowtham96&layout=compact&theme=github_dark" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgowtham96&theme=github-dark-blue" />
+</p>
+
+---
+
+### 💡 Personal Motto
+
+> "Keep learning, keep building, and let curiosity drive innovation."
